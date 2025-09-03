@@ -148,8 +148,3 @@ Key outcomes:
 
 ---
 
-
-
----
-
-👉 Do you also want me to add **badges (build, Azure, PySpark, license, etc.) and screenshots/visualizations** to make the README visually impressive for recruiters?
