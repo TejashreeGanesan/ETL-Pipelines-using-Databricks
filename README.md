@@ -1,9 +1,3 @@
-# ETL-Pipelines-using-Databricks
-Perfect 👍 A professional **README.md** will make your GitHub repo shine and attract recruiters.
-Here’s a polished **README.md** draft for your project:
-
----
-
 # PySpark ETL on Azure Databricks
 
 ## 🚀 Project Overview
