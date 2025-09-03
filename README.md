@@ -131,7 +131,9 @@ Processed Data (Parquet/Delta in ADLS / SQL DB)
 ## 📊 Results
 
 ✔ Cleaned and transformed dataset successfully stored in **Parquet format**.
+
 ✔ Automated ETL pipeline with scheduled jobs.
+
 ✔ Scalable & optimized data processing on Databricks clusters.
 
 ---
